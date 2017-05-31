@@ -1,4 +1,4 @@
-[![CDNJS](http://127.0.0.1:8085/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b.svg)](https://cdnjs.com/libraries/jquery)
+[![Donatecoins](http://donatecoins.org/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b.svg)](http://donatecoins.org/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b)
 
 # Donate button in github
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
