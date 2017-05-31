@@ -1,4 +1,4 @@
-[![Donate Bitcoin](http://127.0.0.1:8085/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b.svg)]
+[![Donate Bitcoin](http://127.0.0.1:8085/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b.svg)]()
 
 
 # Donate button in github
